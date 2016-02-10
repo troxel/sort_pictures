@@ -1,3 +1,6 @@
+# sort_pictures
+A python script to copy or move jpg's from a src directory to a dest directory sorted by year/mm_dd  
+
 # Synopsis
 
 usage: sort_pictures.py [-h] [-r] [-c] [-s] [-t] [-v] [-ym] [-ymd]
